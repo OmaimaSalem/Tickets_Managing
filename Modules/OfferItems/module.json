@@ -1,0 +1,13 @@
+{
+    "name": "OfferItems",
+    "alias": "offeritems",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\OfferItems\\Providers\\OfferItemsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

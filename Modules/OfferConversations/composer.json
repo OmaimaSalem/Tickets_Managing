@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/offerconversations",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\OfferConversations\\Providers\\OfferConversationsServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\OfferConversations\\": ""
+        }
+    }
+}

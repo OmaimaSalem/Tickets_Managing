@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/ticketdialog",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\TicketDialog\\Providers\\TicketDialogServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\TicketDialog\\": ""
+        }
+    }
+}

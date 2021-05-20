@@ -1,0 +1,13 @@
+{
+    "name": "Versions",
+    "alias": "versions",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Versions\\Providers\\VersionsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

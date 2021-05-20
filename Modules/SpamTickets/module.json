@@ -1,0 +1,13 @@
+{
+    "name": "SpamTickets",
+    "alias": "spamtickets",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\SpamTickets\\Providers\\SpamTicketsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

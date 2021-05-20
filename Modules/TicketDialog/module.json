@@ -1,0 +1,13 @@
+{
+    "name": "TicketDialog",
+    "alias": "ticketdialog",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\TicketDialog\\Providers\\TicketDialogServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

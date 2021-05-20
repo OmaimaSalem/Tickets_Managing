@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/spamtickets",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\SpamTickets\\Providers\\SpamTicketsServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\SpamTickets\\": ""
+        }
+    }
+}

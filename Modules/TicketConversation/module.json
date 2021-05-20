@@ -1,0 +1,13 @@
+{
+    "name": "TicketConversation",
+    "alias": "ticketconversation",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\TicketConversation\\Providers\\TicketConversationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "MailTemplate",
+    "alias": "mailtemplate",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\MailTemplate\\Providers\\MailTemplateServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

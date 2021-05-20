@@ -1,0 +1,13 @@
+{
+    "name": "TicketContract",
+    "alias": "ticketcontract",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\TicketContract\\Providers\\TicketContractServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

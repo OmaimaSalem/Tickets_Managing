@@ -1,0 +1,17 @@
+[v-cloak] {
+  display: none;
+}
+
+.invalid-feedback {
+  display: inline;
+}
+
+.vbt-per-page-dropdown {
+  display: none;
+}
+
+.asterisk_input::after {
+  content: "*";
+  color: #e32;
+  font-size: x-large;
+}

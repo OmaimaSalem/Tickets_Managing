@@ -1,0 +1,13 @@
+{
+    "name": "Attend",
+    "alias": "attend",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Attend\\Providers\\AttendServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "TicketCalendar",
+    "alias": "ticketcalendar",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\TicketCalendar\\Providers\\TicketCalendarServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

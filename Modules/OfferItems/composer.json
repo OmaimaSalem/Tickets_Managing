@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/offeritems",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\OfferItems\\Providers\\OfferItemsServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\OfferItems\\": ""
+        }
+    }
+}

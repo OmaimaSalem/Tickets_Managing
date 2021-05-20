@@ -1,0 +1,13 @@
+{
+    "name": "ProjectFiles",
+    "alias": "projectfiles",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ProjectFiles\\Providers\\ProjectFilesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

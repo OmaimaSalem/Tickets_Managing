@@ -1,0 +1,13 @@
+{
+    "name": "ItemCategory",
+    "alias": "itemcategory",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ItemCategory\\Providers\\ItemCategoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

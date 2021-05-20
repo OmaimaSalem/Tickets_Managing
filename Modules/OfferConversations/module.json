@@ -1,0 +1,13 @@
+{
+    "name": "OfferConversations",
+    "alias": "offerconversations",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\OfferConversations\\Providers\\OfferConversationsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
